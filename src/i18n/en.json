@@ -1,0 +1,51 @@
+{
+  "home": {
+    "title": "Bluetooth Device Manager",
+    "subtitle": "Connect to BLE devices",
+    "discoverButtonLabel": "Discover Bluetooth Devices",
+    "historyButtonLabel": "View Old Connected Data",
+    "scanning": "Scanning for devices...",
+    "noDevices": "No Devices Found",
+    "noDevicesMessage": "Make sure your device is nearby and has Bluetooth enabled",
+    "foundDevices": "Found {{count}} device",
+    "foundDevices_plural": "Found {{count}} devices"
+  },
+  "deviceDetail": {
+    "title": "Device Details",
+    "connecting": "Connecting...",
+    "connected": "Connected",
+    "readingData": "Reading data...",
+    "uploading": "Uploading...",
+    "connectionError": "Failed to connect to device",
+    "readError": "Failed to read device data",
+    "uploadError": "Failed to upload data",
+    "connectButtonLabel": "Connect",
+    "disconnectButtonLabel": "Disconnect",
+    "readDataButtonLabel": "Read Data",
+    "uploadButtonLabel": "Upload to Server",
+    "uploadSuccess": "Data uploaded successfully!",
+    "deviceInfo": "Device Information",
+    "deviceName": "Device Name",
+    "deviceId": "Device ID",
+    "connectionStatus": "Connection Status",
+    "deviceData": "Device Data"
+  },
+  "history": {
+    "title": "Connection History",
+    "refresh": "Refresh",
+    "noHistory": "No History",
+    "noHistoryMessage": "No device connections recorded yet",
+    "loading": "Loading history...",
+    "error": "Failed to load history",
+    "retrying": "Retrying..."
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "error": "Error",
+    "success": "Success",
+    "loading": "Loading",
+    "empty": "Empty"
+  }
+}

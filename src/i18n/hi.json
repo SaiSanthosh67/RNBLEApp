@@ -1,0 +1,51 @@
+{
+  "home": {
+    "title": "ब्लूटूथ डिवाइस मैनेजर",
+    "subtitle": "BLE डिवाइस से कनेक्ट करें",
+    "discoverButtonLabel": "ब्लूटूथ डिवाइस खोजें",
+    "historyButtonLabel": "पुरानी कनेक्शन जानकारी देखें",
+    "scanning": "डिवाइस स्कैन कर रहे हैं...",
+    "noDevices": "कोई डिवाइस नहीं मिला",
+    "noDevicesMessage": "सुनिश्चित करें कि आपका डिवाइस पास है और ब्लूटूथ सक्षम है",
+    "foundDevices": "{{count}} डिवाइस मिला",
+    "foundDevices_plural": "{{count}} डिवाइस मिले"
+  },
+  "deviceDetail": {
+    "title": "डिवाइस विवरण",
+    "connecting": "कनेक्ट कर रहे हैं...",
+    "connected": "कनेक्ट हो गया",
+    "readingData": "डेटा पढ़ रहे हैं...",
+    "uploading": "अपलोड कर रहे हैं...",
+    "connectionError": "डिवाइस से कनेक्ट करने में विफल",
+    "readError": "डिवाइस डेटा पढ़ने में विफल",
+    "uploadError": "डेटा अपलोड करने में विफल",
+    "connectButtonLabel": "कनेक्ट करें",
+    "disconnectButtonLabel": "डिस्कनेक्ट करें",
+    "readDataButtonLabel": "डेटा पढ़ें",
+    "uploadButtonLabel": "सर्वर पर अपलोड करें",
+    "uploadSuccess": "डेटा सफलतापूर्वक अपलोड हो गया!",
+    "deviceInfo": "डिवाइस जानकारी",
+    "deviceName": "डिवाइस का नाम",
+    "deviceId": "डिवाइस ID",
+    "connectionStatus": "कनेक्शन स्थिति",
+    "deviceData": "डिवाइस डेटा"
+  },
+  "history": {
+    "title": "कनेक्शन इतिहास",
+    "refresh": "रीफ्रेश करें",
+    "noHistory": "कोई इतिहास नहीं",
+    "noHistoryMessage": "अभी तक कोई डिवाइस कनेक्शन रिकॉर्ड नहीं है",
+    "loading": "इतिहास लोड कर रहे हैं...",
+    "error": "इतिहास लोड करने में विफल",
+    "retrying": "पुनः प्रयास कर रहे हैं..."
+  },
+  "common": {
+    "ok": "ठीक है",
+    "cancel": "रद्द करें",
+    "retry": "पुनः प्रयास करें",
+    "error": "त्रुटि",
+    "success": "सफल",
+    "loading": "लोड हो रहा है",
+    "empty": "खाली"
+  }
+}
